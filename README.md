@@ -65,5 +65,5 @@
 
 
 *[Github : Проект_0. Игра "Угадай число"](https://github.com/ANTIOKH2/skill_ed/blob/main/project_0/game_v3.py)
-*[ссылка на google colab:] (https://colab.research.google.com/drive/1au4mfxN2qIp7wPAaUV45vksvQVkC1fxC?usp=sharing)
+*[ссылка на google colab:](https://colab.research.google.com/drive/1au4mfxN2qIp7wPAaUV45vksvQVkC1fxC?usp=sharing)
 
